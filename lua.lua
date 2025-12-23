@@ -8,7 +8,7 @@ getgenv().luaguardvars = {
     DiscordName = "username#0000",
 }
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/drillygzzly/Other/main/1"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/asdadadas2/wasd/refs/heads/main/luaa.lua"))()
 library:init()
 
 local Window = library.NewWindow({
